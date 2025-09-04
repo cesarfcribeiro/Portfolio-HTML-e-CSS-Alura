@@ -19,7 +19,7 @@ O objetivo é mostrar minha atuação como **desenvolvedor(a) Front-end**, utili
 ## 👩‍💻 Feito por
 
 ### Cesar Carvalho  
-🔗 [LinkedIn](www.linkedin.com/in/cesarfcribeiro)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cesarfcribeiro)  
 🔗 [GitHub](https://github.com/cesarfcribeiro)  
 
 ---
